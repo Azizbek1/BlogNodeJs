@@ -32,4 +32,4 @@ app.use(express.static('public'));
 app.use('/blogs', blogRouter);
 
 //listen port
-app.listen(80);
+app.listen(3000);
